@@ -1,0 +1,8 @@
+{
+  "short_name": "New Template",
+  "name": "New Template Sample",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
