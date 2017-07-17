@@ -11,7 +11,9 @@ class Template extends Component {
   }
 }
 
-
+$(document).ready(function(){
+  
+})
 
 
 export default Template;
