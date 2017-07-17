@@ -1,0 +1,19 @@
+{
+  "name": "google-sign-in-passport",
+  "version": "0.0.1",
+  "description": "Google Sign In Passport Scripts",
+  "main": "./src/js/main.js",
+  "scripts": {
+    "test": "\"start\" : \"node server.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GHSTechClub/google-sign-in-passport.git"
+  },
+  "author": "CosmeChz",
+  "license": "Mozilla Public License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/GHSTechClub/google-sign-in-passport/issues"
+  },
+  "homepage": "https://github.com/GHSTechClub/google-sign-in-passport#readme"
+}
