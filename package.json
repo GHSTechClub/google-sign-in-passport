@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GHSTechClub/google-sign-in-passport/issues"
   },
-  "homepage": "https://github.com/GHSTechClub/google-sign-in-passport#readme"
+  "homepage": "https://github.com/GHSTechClub/google-sign-in-passport#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
 }
